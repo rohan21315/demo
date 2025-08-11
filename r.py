@@ -1,0 +1,2 @@
+def fuc():
+    print("Hello")
