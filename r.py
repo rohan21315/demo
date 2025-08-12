@@ -1,4 +1,4 @@
 def fuc():
     print("Hello")
-    def water():
-        print("Drinking Water")
+def bottle():
+    print("Drinking Water")
